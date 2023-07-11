@@ -1,0 +1,1 @@
+Repository containing notebooks for an object oriented programming workshop and a qutip workshop.
